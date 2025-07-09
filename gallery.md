@@ -24,3 +24,9 @@ permalink: /gallery/
 <div style="display: flex; justify-content: space-between;">
     <img src="https://lingyuli-cogs.github.io/image/ReflectionBenchPoster.png">
 </div>
+
+## Flowers Recerived From My Friends
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://lingyuli-cogs.github.io/image/flower.png">
+</div>
