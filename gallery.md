@@ -9,9 +9,9 @@ permalink: /gallery/
 ## Our Punk Band *图一 Torig* Concert Posters
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="image/livebar.jpeg" width="32%">
-    <img src="image/rhythm.jpeg" width="32%">
-    <img src="image/sonic.jpeg" width="32%">
+    <img src="https://lingyuli-cogs.github.io/image/livebar.jpeg" width="32%">
+    <img src="https://lingyuli-cogs.github.io/image/rhythm.jpeg" width="32%">
+    <img src="https://lingyuli-cogs.github.io/image/sonic.jpeg" width="32%">
 </div>
 
 <div style="display: flex; justify-content: space-between; text-align: center;">
