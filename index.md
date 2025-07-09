@@ -18,17 +18,17 @@ For my undergraduate, I majored in Clinical Medicine at [Shanghai Jiao Tong Univ
 
 ### Selected Research (First Author)
 
-#### [Reflection-Bench](https://arxiv.org/abs/2410.16270): Evaluating Epistemic Agency in Large Language Models
+#### 🖤 [Reflection-Bench](https://arxiv.org/abs/2410.16270): Evaluating Epistemic Agency in Large Language Models
 Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Proceedings of the 42 nd International Conference on Machine Learning*（ICML 2025）
 
-#### [Formalizing Lacanian psychoanalysis](https://doi.org/10.3389/fpsyg.2025.1574650) through the free energy principle
+#### 🖤 [Formalizing Lacanian psychoanalysis](https://doi.org/10.3389/fpsyg.2025.1574650) through the free energy principle
 Lingyu Li, Chunbo Li ⍆
 
 *Frontiers in Psychology, Theoretical and Philosophical Psychology*
 
-#### [Chain of Risks Evaluation](https://doi.org/10.1111/pcn.13781) (CORE): a framework for safer large language models in public mental health
+#### 🖤 [Chain of Risks Evaluation](https://doi.org/10.1111/pcn.13781) (CORE): a framework for safer large language models in public mental health
 Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Psychiatry and Clinical Neurosciences*
