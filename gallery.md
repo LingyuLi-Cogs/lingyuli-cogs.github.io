@@ -4,8 +4,6 @@ title: Gallery
 permalink: /gallery/
 ---
 
-# Gallery
-
 ## Our Punk Band *图一 Torig* Concert Posters
 
 <div style="display: flex; justify-content: space-between;">
