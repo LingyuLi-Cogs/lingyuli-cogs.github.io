@@ -28,6 +28,6 @@ permalink: /gallery/
 ## Flowers Received From My Friends
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://lingyuli-cogs.github.io/image/flower0.jpg" width="45%">
+    <img src="https://lingyuli-cogs.github.io/image/flower0.jpg" width="45%">
     <img src="https://lingyuli-cogs.github.io/image/flower.jpg" width="45%">
 </div>
