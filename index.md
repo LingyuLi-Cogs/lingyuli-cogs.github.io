@@ -32,4 +32,3 @@ Lingyu Li, Chunbo Li ⍆
 Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Psychiatry and Clinical Neurosciences*
-
