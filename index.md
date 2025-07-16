@@ -21,6 +21,8 @@ For my undergraduate, I majored in Clinical Medicine at [Shanghai Jiao Tong Univ
 #### 🖤 [The Other Mind: How Language Models Exhibit Human Temporal Cognition](https://theothermind.github.io)
 Lingyu Li, Yang Yao, Yixu Wang, Chunbo Li, Yan Teng ⍆, Yingchun Wang
 
+*arXiv*
+
 
 #### 🖤 [Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://arxiv.org/abs/2410.16270)
 Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
