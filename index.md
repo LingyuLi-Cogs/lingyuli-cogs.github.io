@@ -39,7 +39,7 @@ Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Psychiatry and Clinical Neurosciences*
 
-# 🎵 Weekly Pick
+# 🎵 Weekly Picks
 
-<iframe data-testid="embed-iframe" style="border-radius:12px; margin-bottom: -5px;" src="https://open.spotify.com/embed/track/11Ha4ECEnXIPjHRUybNQOp?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe data-testid="embed-iframe" style="border-radius:12px; margin-bottom: -5px;" src="https://open.spotify.com/embed/track/7DLbYYR1cBzxHRP31Jt04b?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px; margin-bottom: -5px;" src="https://open.spotify.com/track/5A9AIR8ZbL0GymUeBJldgf?si=c4b8fd23216b4cd0" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+> I feel like the summer is leaving again.
