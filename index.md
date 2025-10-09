@@ -41,6 +41,12 @@ Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Psychiatry and Clinical Neurosciences*
 
+#### 🖤 [Schizophrenia Research Under the Framework of Predictive Coding: Body, Language, and Others](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcs.70013?domain=author&token=PPVP9HUMKHAPKGTH7TN9)
+Lingyu Li ⍆, Chunbo Li
+
+*Wiley Interdisciplinary Reviews Cognitive Science*
+
+
 # 🎵 Weekly Picks
 
 
