@@ -23,7 +23,7 @@ Feel free to contact me regarding academic collaboration or opportunities to wor
 #### 🖤 [The Other Mind: How Language Models Exhibit Human Temporal Cognition](https://theothermind.github.io)
 Lingyu Li, Yang Yao, Yixu Wang, Chunbo Li, Yan Teng ⍆, Yingchun Wang
 
-*arXiv*
+*The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*
 
 
 #### 🖤 [Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://arxiv.org/abs/2410.16270)
@@ -50,4 +50,4 @@ Lingyu Li ⍆, Chunbo Li
 # 🎵 Weekly Picks
 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px; margin-bottom: -5px;" src="https://open.spotify.com/embed/track/1WSblHdniVxDMEuAO0Xyde?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px; margin-bottom: -5px;" src="https://open.spotify.com/embed/track/38OvTFIg5ZYRow2sA1jgKo?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
