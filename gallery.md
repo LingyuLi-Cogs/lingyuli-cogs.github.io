@@ -25,6 +25,12 @@ permalink: /gallery/
     <img src="https://lingyuli-cogs.github.io/image/ReflectionBenchPoster.png">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://lingyuli-cogs.github.io/image/theothermind.png">
+</div>
+
+
+
 ## Flowers Received From My Friends
 
 <div style="display: flex; justify-content: space-between;">
