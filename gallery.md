@@ -21,9 +21,13 @@ permalink: /gallery/
 
 ## Conference Posters
 
+### ICML 2025 Reflection-Bench
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://lingyuli-cogs.github.io/image/ReflectionBenchPoster.png">
 </div>
+
+### AAAI 2026 The Other Mind
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://lingyuli-cogs.github.io/image/theothermind.png">
