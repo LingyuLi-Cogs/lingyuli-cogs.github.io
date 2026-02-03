@@ -4,10 +4,14 @@ email: lingyulipsy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Toward *Digital Twin Mind* through AI, cognitive science, and philosopy. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
+url: "https://lingyuli-cogs.github.io" # the base hostname & protocol for your site
 twitter_username: yabyab887
 github_username:  lingyuli-cogs
 permalink: /blog/:year/:month/:title.html
+header_pages:
+  - index.md
+  - blog.md
+  - poster.md
 gems:
   - jekyll-sitemap
 
