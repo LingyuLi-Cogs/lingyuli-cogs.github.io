@@ -7,7 +7,7 @@ permalink: /blog/
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2>
+      <h4>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
         </a>
