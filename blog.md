@@ -11,7 +11,7 @@ permalink: /blog/
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
         </a>
-      </h3>
+      </h4>
       {% if post.tldr %}
         <p>{{ post.tldr }}</p>
       {% else %}
