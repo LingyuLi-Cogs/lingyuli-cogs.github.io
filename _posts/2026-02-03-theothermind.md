@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Charting The Other Mind"
+title: "The Fourth Wave of Artificial Intelligence"
 date: 2026-02-03
-tldr: "Why LLMs are The Other Mind"
+tldr: ""
 ---
 TBD
