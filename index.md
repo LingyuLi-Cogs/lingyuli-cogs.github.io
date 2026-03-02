@@ -36,7 +36,7 @@ Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yin
 *Proceedings of the 42 nd International Conference on Machine Learning*（ICML 2025）
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-<strong>TL;DR:</strong> When an LLM serves as an agent's brain, what is the core capabilitiy that defines its ceiling. We propose Epistemic Agency, the ability to fexlibly construct, adapt, and monitor beliefs about the dynamic environments. Reflection-Bench evaluates epistemic agency utilizing 7 parameterized cognitive tests to minimize data contamination. We suggest several promising directions, including enhancing meta-cognition, developing mechanisms for dynamic shifts between intuitive and deliberative reasoning, and fostering organic coordination among cognitive capabilities. 
+<strong>TL;DR:</strong> When an LLM serves as an agent's brain, what is the core capabilitiy that defines its ceiling? We propose Epistemic Agency, the ability to fexlibly construct, adapt, and monitor beliefs about the dynamic environments. Reflection-Bench evaluates epistemic agency utilizing 7 parameterized cognitive tests to minimize data contamination. We suggest several promising directions, including enhancing meta-cognition, developing mechanisms for dynamic shifts between intuitive and deliberative reasoning, and fostering organic coordination among cognitive capabilities. 
 </div>
 
 #### 🌬️ [Formalizing Lacanian psychoanalysis through the free energy principle](https://doi.org/10.3389/fpsyg.2025.1574650)
