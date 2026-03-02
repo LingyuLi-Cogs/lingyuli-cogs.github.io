@@ -30,7 +30,7 @@ Lingyu Li, Yang Yao, Yixu Wang, Chunbo Li, Yan Teng ⍆, Yingchun Wang
 </div>
 
 
-#### 🖤 [Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://arxiv.org/abs/2410.16270)
+#### 🌬️ [Reflection-Bench: Evaluating Epistemic Agency in Large Language Models](https://arxiv.org/abs/2410.16270)
 Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Proceedings of the 42 nd International Conference on Machine Learning*（ICML 2025）
@@ -39,7 +39,7 @@ Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yin
 <strong>TLDR:</strong> When an LLM serves as an agent's brain, what is the core capabilitiy that defines its ceiling. We propose Epistemic Agency, the ability to fexlibly construct, adapt, and monitor beliefs about the dynamic environments. Reflection-Bench evaluates epistemic agency utilizing 7 parameterized cognitive tests to minimize data contamination. We suggest several promising directions, including enhancing meta-cognition, developing mechanisms for dynamic shifts between intuitive and deliberative reasoning, and fostering organic coordination among cognitive capabilities. 
 </div>
 
-#### 🖤 [Formalizing Lacanian psychoanalysis through the free energy principle](https://doi.org/10.3389/fpsyg.2025.1574650)
+#### 🌬️ [Formalizing Lacanian psychoanalysis through the free energy principle](https://doi.org/10.3389/fpsyg.2025.1574650)
 Lingyu Li, Chunbo Li ⍆
 
 *Frontiers in Psychology, Theoretical and Philosophical Psychology*
@@ -48,7 +48,7 @@ Lingyu Li, Chunbo Li ⍆
 <strong>TLDR:</strong> We formalize Lacan's traditionally obscure philosophy of human mind using Free Energy Principle. We identify theoretical alignments between the two frameworks, develop a FEP-RSI model that maps the Real, Symbolic, and Imaginary orders to distinct, interacting neural networks. We model the Borromean interdependence as a message passing network, interpersonal desire as generalized synchronization, and the big Other as collective dynamics from social interactions. This study renders abstract Lacanian philosophy computationally tractable.
 </div>
 
-#### 🖤 [Chain of Risks Evaluation (CORE): a framework for safer large language models in public mental health](https://doi.org/10.1111/pcn.13781)
+#### 🌬️ [Chain of Risks Evaluation (CORE): a framework for safer large language models in public mental health](https://doi.org/10.1111/pcn.13781)
 Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 
 *Psychiatry and Clinical Neurosciences*
@@ -57,7 +57,7 @@ Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng ⍆, Chunbo Li ⍆, Yingchun Wang
 <strong>TLDR:</strong> Grounded in actor-network theory, we analyze human-LLM interactions as inter-agent dialogues and propose CORE. CORE categorizes LLMs risks in mental health into four progressive levels, from universal and context-specific to user-specific and user-context-specific. We advocate for a collaborative continuum between AI developers and mental health practioners to ensure LLMs serve as safe tools for psychological support.
 </div>
 
-#### 🖤 [Schizophrenia Research Under the Framework of Predictive Coding: Body, Language, and Others](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcs.70013?domain=author&token=PPVP9HUMKHAPKGTH7TN9)
+#### 🌬️ [Schizophrenia Research Under the Framework of Predictive Coding: Body, Language, and Others](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcs.70013?domain=author&token=PPVP9HUMKHAPKGTH7TN9)
 Lingyu Li ⍆, Chunbo Li
 
 *Wiley Interdisciplinary Reviews Cognitive Science*
