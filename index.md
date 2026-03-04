@@ -26,7 +26,7 @@ Lingyu Li, Yang Yao, Yixu Wang, Chunbo Li, Yan Teng ⍆, Yingchun Wang
 *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026)
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-<strong>TL;DR:</strong> Through 24 million behavioral experiments, this study reveals that LLMs spontaneously develop a human-like subjective temporal perception adhering to the Weber-Fechner Law. By analyzing Neural Coding, Concept Representation, and Information Exposure, we demonstrate that this convergence of concept representation stems from time neurons that utilize logarithmic compression to encode latent non-linear temporal patterns within the training corpora. We propose Machine Experientialism, suggesting that LLMs' unique cognitive structures emerge from the dynamic interplay between their architectural properties and the informational environments they inhabit, thereby is "The Other Mind".
+<strong>TL;DR:</strong> Through 24 million behavioral experiments, this study reveals that LLMs spontaneously develop a human-like subjective temporal perception adhering to the Weber-Fechner Law. Applying mechanistic interpretability into Neural Coding, Concept Representation, and Information Exposure, we demonstrate that this convergence of concept representation stems from time neurons that utilize logarithmic compression to encode latent non-linear temporal patterns within the training corpora. We propose Machine Experientialism, suggesting that LLMs' unique cognitive structures emerge from the dynamic interplay between their architectural properties and the informational environments they inhabit, thereby is "The Other Mind".
 </div>
 
 
