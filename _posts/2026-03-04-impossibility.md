@@ -8,4 +8,4 @@ Historically, the evolution of neuroscience has been inextricably linked to the 
 
 With AI, we possess God mode. We have 100% perfect spatial and temporal resolution. We can track every single parameter, matrix multiplication, and activation value without a single drop of biological noise. Yet, exactly how billions of weights magically birth cognitive phenonmena remains a profound black box.
 
-Herein lies a terrifying corollary: if we cannot fully reverse-engineer a completely transparent, human-built artificial network using perfect data, why do we assume that zooming in on a messy, wet, chemically noisy biological brain will yield the answers? So what will be the key to understand our mind, or at least LLMs?
+Herein lies a terrifying corollary: if we cannot fully reverse-engineer a completely transparent, human-built artificial network using uni-modal textual data, why do we assume that zooming in on a messy, wet, chemically noisy biological brain will yield the answers? So what will be the key to understand our mind, or at least LLMs?
