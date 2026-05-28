@@ -22,7 +22,7 @@ For my undergraduate, I majored in Clinical Medicine at [Shanghai Jiao Tong Univ
 
 ## Selected Research
 
-#### 🌬️ [Mechanistic Origin of Moral Indifference in Language Models](https://arxiv.org/abs/2603.15615)
+#### 🌬️ [Mechanistic Origin of Moral Indifference in Language Models](https://sharedfutureai.com/mechanistic-origin.html)
 Lingyu Li, Yan Teng ⍆, Yingchun Wang
 
 *arXiv*
