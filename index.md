@@ -28,7 +28,7 @@ Lingyu Li, Yan Teng ⍆, Yingchun Wang
 *arXiv*
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-<strong>TL;DR:</strong> Just as money quantifies qualities, the tokenization process in LLMs maps discrete, semantically distinct concepts from genocide to apple into a unified embedding space and thus share the same ontological status as probability distributions to be calculated, rendering the Moral Indifference inevitable. Along our Machine Experientialsm philosophy, we erify and remedy this indifference in LLMs' latent representations, utilizing 251k moral vectors constructed upon Prototype Theory and the Social-Chemistry-101 dataset. We also propose a targeted representational alignment using Sparse Autoencoders, that naturally improves moral reasoning and granularity. Endogenous alignment requires a transformation from corrections to cultivation.
+<strong>TL;DR:</strong> Just as money quantifies qualities, the tokenization process in LLMs maps discrete, semantically distinct concepts from genocide to apple into a unified embedding space and thus share the same ontological status as probability distributions to be calculated, rendering the Moral Indifference inevitable. Along our Machine Experientialsm philosophy, we verify and remedy this indifference in LLMs' latent representations, utilizing 251k moral vectors constructed upon Prototype Theory and the Social-Chemistry-101 dataset. We also propose a targeted representational alignment using Sparse Autoencoders, that naturally improves moral reasoning and granularity. Endogenous alignment requires a transformation from corrections to cultivation.
 </div>
 
 
