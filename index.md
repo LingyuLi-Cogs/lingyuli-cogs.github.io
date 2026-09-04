@@ -28,7 +28,7 @@ Lingyu Li, Yan Teng ⍆, Yingchun Wang, Xia Hu
 *arXiv*
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-<strong>TL;DR:</strong> Standard behavioral alignment merely optimizes surface-level output patterns without reorganizing the model's latent conceptual structure, leaving models acutely vulnerable to jailbreak attacks. Drawing on cognitive prototype theory, this paper introduces Representational Similarity Optimization (ReSO), a method that directly aligns hidden-layer representations with human moral categorization without supervising generated tokens. ReSO consistently improves adversarial robustness across multiple model scales against 27 attack methods, providing computational evidence that internal representational reorganization is functionally linked to generalizable safety.
+<strong>TL;DR:</strong> This paper introduces Representational Similarity Optimization (ReSO), a method that directly aligns hidden-layer representations with human moral categorization without supervising generated tokens. ReSO consistently improves adversarial robustness across multiple model scales against various jailbreak evaluations, providing computational evidence that internal representational reorganization is functionally linked to generalizable safety.
 </div>
 
 #### 🌬️ [Understanding large language models demands distinguishing human projection from machine cognition](https://www.nature.com/articles/s44271-026-00508-6)
