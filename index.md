@@ -34,7 +34,7 @@ Lingyu Li, Yan Teng ⍆, Yingchun Wang, Xia Hu
 #### 🌬️ [Understanding large language models demands distinguishing human projection from machine cognition](https://www.nature.com/articles/s44271-026-00508-6)
 Lingyu Li, Yan Teng ⍆, Yingchun Wang, Xia Hu
 
-*arXiv*
+*Communications Psychology*
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
 <strong>TL;DR:</strong> Current efforts to understand LLMs are largely metaphorical. Researchers map LLMs onto familiar domains, from physics and neuroscience to psychology and sociology, each illuminating specific facets while obscuring others. We chart these metaphors across mechanistic, behavioral, and interactive scales and delineate their explanatory boundaries. Crucially, this metaphorical projection creates a recursive loop of anthropomorphism, fueling the genuine understanding versus pattern matching impasse. As an alternative approach, we propose machine experientialism, positing that LLMs build their own form of understanding from training corpora. The priority shifts from cataloging LLMs' human-like traits to uncovering their distinct logic that emerges from this text-based world.
