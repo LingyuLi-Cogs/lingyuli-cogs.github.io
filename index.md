@@ -22,13 +22,22 @@ For my undergraduate, I majored in Clinical Medicine at [Shanghai Jiao Tong Univ
 
 ## Selected Research
 
-#### 🌬️ [Mechanistic Origin of Moral Indifference in Language Models](https://sharedfutureai.com/mechanistic-origin.html)
-Lingyu Li, Yan Teng ⍆, Yingchun Wang
+#### 🌬️ [Representational alignment yields generalizable safety in language models](https://arxiv.org/abs/2609.04022)
+Lingyu Li, Yan Teng ⍆, Yingchun Wang, Xia Hu
 
 *arXiv*
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-<strong>TL;DR:</strong> Just as money quantifies qualities, the tokenization process in LLMs maps discrete, semantically distinct concepts from genocide to apple into a unified embedding space and thus share the same ontological status as probability distributions to be calculated, rendering the Moral Indifference inevitable. Along our Machine Experientialsm philosophy, we verify and remedy this indifference in LLMs' latent representations, utilizing 251k moral vectors constructed upon Prototype Theory and the Social-Chemistry-101 dataset. We also propose a targeted representational alignment using Sparse Autoencoders, that naturally improves moral reasoning and granularity. Endogenous alignment requires a transformation from corrections to cultivation.
+<strong>TL;DR:</strong> Standard behavioral alignment merely optimizes surface-level output patterns without reorganizing the model's latent conceptual structure, leaving models acutely vulnerable to jailbreak attacks. Drawing on cognitive prototype theory, this paper introduces Representational Similarity Optimization (ReSO), a method that directly aligns hidden-layer representations with human moral categorization without supervising generated tokens. ReSO consistently improves adversarial robustness across multiple model scales against 27 attack methods, providing computational evidence that internal representational reorganization is functionally linked to generalizable safety.
+</div>
+
+#### 🌬️ [Understanding large language models demands distinguishing human projection from machine cognition](https://www.nature.com/articles/s44271-026-00508-6)
+Lingyu Li, Yan Teng ⍆, Yingchun Wang, Xia Hu
+
+*arXiv*
+
+<div style="background-color: #f8f9fa; border-left: 4px solid #6c757d; padding: 12px 16px; margin: 12px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+<strong>TL;DR:</strong> Current efforts to understand LLMs are largely metaphorical. Researchers map LLMs onto familiar domains, from physics and neuroscience to psychology and sociology, each illuminating specific facets while obscuring others. We chart these metaphors across mechanistic, behavioral, and interactive scales and delineate their explanatory boundaries. Crucially, this metaphorical projection creates a recursive loop of anthropomorphism, fueling the genuine understanding versus pattern matching impasse. As an alternative approach, we propose machine experientialism, positing that LLMs build their own form of understanding from training corpora. The priority shifts from cataloging LLMs' human-like traits to uncovering their distinct logic that emerges from this text-based world.
 </div>
 
 
