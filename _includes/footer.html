@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="shell footer-inner">
+    <p class="colophon">
+      <span>© {{ site.time | date: '%Y' }} Lingyu Li</span>
+      <span class="colophon-sep" aria-hidden="true"></span>
+      <span>Shanghai, China</span>
+    </p>
+
+    <ul class="icon-links" aria-label="Elsewhere">
+      <li><a href="{{ site.scholar_url }}" aria-label="Google Scholar">{% include icon.html name="graduation-cap" %}</a></li>
+      <li><a href="https://x.com/{{ site.twitter_username }}" aria-label="Twitter">{% include icon.html name="x-logo" %}</a></li>
+      <li><a href="https://github.com/{{ site.github_username }}" aria-label="GitHub">{% include icon.html name="github-logo" %}</a></li>
+      <li><a href="mailto:{{ site.email }}" aria-label="Email">{% include icon.html name="envelope-simple" %}</a></li>
+    </ul>
+  </div>
+</footer>

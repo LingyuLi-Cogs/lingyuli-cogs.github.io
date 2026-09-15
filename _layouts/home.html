@@ -1,0 +1,108 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="shell hero-inner">
+    <div class="hero-copy">
+      <h1 class="hero-name">
+        <span class="hero-name-en">Lingyu Li</span>
+        <span class="hero-name-zh" lang="zh-Hans">李凌宇</span>
+      </h1>
+
+      <p class="hero-lede">{{ page.lede }}</p>
+
+      <p class="hero-contact">
+        <span>{% include icon.html name="map-pin" %}{{ page.location }}</span>
+        <a href="mailto:{{ site.email }}">{% include icon.html name="envelope-simple" %}{{ site.email }}</a>
+      </p>
+
+      <ul class="chip-links">
+        <li>
+          <a href="{{ site.scholar_url }}">
+            {% include icon.html name="graduation-cap" %}<span>Google Scholar</span>{% include icon.html name="arrow-up-right" class="icon-out" %}
+          </a>
+        </li>
+        <li>
+          <a href="https://x.com/{{ site.twitter_username }}">
+            {% include icon.html name="x-logo" %}<span>Twitter</span>{% include icon.html name="arrow-up-right" class="icon-out" %}
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/{{ site.github_username }}">
+            {% include icon.html name="github-logo" %}<span>GitHub</span>{% include icon.html name="arrow-up-right" class="icon-out" %}
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <figure class="hero-portrait">
+      <img src="{{ '/image/lingyuli-900.jpg' | relative_url }}" width="600" height="900"
+           alt="Lingyu Li playing bass guitar under blue stage light" fetchpriority="high" decoding="async">
+    </figure>
+  </div>
+</section>
+
+<section class="section section-about" id="about">
+  <div class="shell">
+    <h2 class="section-title">Background</h2>
+    <div class="prose measure">
+      {{ content }}
+    </div>
+
+    {%- if page.contact_note %}
+    <p class="callout measure">{{ page.contact_note }}</p>
+    {%- endif %}
+  </div>
+</section>
+
+<section class="section section-research" id="research">
+  <div class="shell">
+    <h2 class="section-title">Selected Research</h2>
+
+    <ol class="pub-list">
+      {%- for pub in site.data.publications %}
+      <li class="pub reveal" style="--i: {{ forloop.index0 }}">
+        <p class="pub-venue">{{ pub.venue }}</p>
+
+        <div class="pub-body">
+          <h3 class="pub-title">
+            <a href="{{ pub.url }}">{{ pub.title }}{% include icon.html name="arrow-up-right" class="icon-out" %}</a>
+          </h3>
+
+          <p class="pub-authors">{{ pub.authors | replace: 'Lingyu Li', '<b>Lingyu Li</b>' }}</p>
+
+          {%- if pub.venue_full %}
+          <p class="pub-venue-full">{{ pub.venue_full }}</p>
+          {%- endif %}
+
+          {%- if pub.tldr %}
+          <details class="tldr">
+            <summary><span class="tldr-label">TL;DR</span>{% include icon.html name="caret-down" class="icon-caret" %}</summary>
+            <p>{{ pub.tldr }}</p>
+          </details>
+          {%- endif %}
+        </div>
+      </li>
+      {%- endfor %}
+    </ol>
+  </div>
+</section>
+
+{%- if page.spotify_track %}
+<section class="section section-picks" id="picks">
+  <div class="shell picks-inner">
+    <div class="picks-copy">
+      <h2 class="section-title">Weekly Picks</h2>
+      <iframe class="spotify" title="Spotify player: this week's pick"
+              src="https://open.spotify.com/embed/track/{{ page.spotify_track }}?utm_source=generator"
+              width="100%" height="152" frameborder="0" loading="lazy"
+              allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    </div>
+
+    <figure class="picks-photo">
+      <img src="{{ '/image/flower0-1000.jpg' | relative_url }}" width="1000" height="786"
+           alt="Two flower stems in bottles beside a small figurine on a desk" loading="lazy" decoding="async">
+    </figure>
+  </div>
+</section>
+{%- endif %}

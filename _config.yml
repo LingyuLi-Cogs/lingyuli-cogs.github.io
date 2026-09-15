@@ -1,0 +1,34 @@
+# Site settings
+title: Lingyu Li | 李凌宇
+short_title: Lingyu Li
+email: lingyulipsy@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Toward *Digital Twin Mind* through AI, cognitive science, and philosophy.
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://lingyuli-cogs.github.io" # the base hostname & protocol for your site
+twitter_username: yabyab887
+github_username: LingyuLi-Cogs
+scholar_url: "https://scholar.google.com/citations?user=WCF6bV8AAAAJ&hl=zh-CN&authuser=1"
+permalink: /blog/:year/:month/:title.html
+
+nav:
+  - title: Blog
+    url: /blog/
+  - title: Poster
+    url: /poster/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - vendor

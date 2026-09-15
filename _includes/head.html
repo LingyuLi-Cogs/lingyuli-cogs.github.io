@@ -1,0 +1,52 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{%- if page.title -%}
+  {%- assign full_title = page.title | append: " · " | append: site.short_title -%}
+{%- else -%}
+  {%- assign full_title = site.title -%}
+{%- endif -%}
+{%- assign meta_desc = page.description | default: site.description | markdownify | strip_html | strip_newlines | strip -%}
+{%- assign social_image = "/image/lingyuli-900.jpg" | absolute_url -%}
+
+<title>{{ full_title }}</title>
+<meta name="description" content="{{ meta_desc }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:site_name" content="{{ site.short_title }}">
+<meta property="og:title" content="{{ full_title }}">
+<meta property="og:description" content="{{ meta_desc }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ social_image }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#fafafb" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0f12" media="(prefers-color-scheme: dark)">
+
+<link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ '/image/lingyuli-900.jpg' | relative_url }}">
+
+<link rel="preload" href="{{ '/fonts/geist-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ '/fonts/geist-mono-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.short_title }}" href="{{ '/feed.xml' | relative_url }}">
+
+<script>
+  /* Set the stored theme before first paint so the page never flashes the wrong mode. */
+  (function () {
+    var root = document.documentElement;
+    root.classList.add('js', 'reveal-ready');
+    try {
+      var saved = localStorage.getItem('theme');
+      if (saved === 'light' || saved === 'dark') root.setAttribute('data-theme', saved);
+    } catch (e) {}
+    /* Safety net: if site.js never runs, nothing stays hidden behind a reveal. */
+    window.addEventListener('load', function () {
+      if (!window.__siteReady) root.classList.remove('reveal-ready');
+    });
+  })();
+</script>

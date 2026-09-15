@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="shell prose-page post">
+  <header class="page-head">
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    <h1>{{ page.title }}</h1>
+    {%- if page.tldr %}
+    <p class="page-summary">{{ page.tldr }}</p>
+    {%- endif %}
+  </header>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  <p class="back-link">
+    <a href="{{ '/blog/' | relative_url }}">{% include icon.html name="arrow-left" %}<span>All writing</span></a>
+  </p>
+</article>

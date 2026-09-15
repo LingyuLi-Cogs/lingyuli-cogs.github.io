@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .plate { fill: #14161a; }
+    .mark { fill: #fafafb; }
+    @media (prefers-color-scheme: dark) {
+      .plate { fill: #e9ebef; }
+      .mark { fill: #0d0f12; }
+    }
+  </style>
+  <rect class="plate" width="32" height="32" rx="7"/>
+  <text class="mark" x="16" y="23" text-anchor="middle"
+        font-family="Geist, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="600" letter-spacing="-0.6">L</text>
+</svg>

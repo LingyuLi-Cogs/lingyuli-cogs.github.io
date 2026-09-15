@@ -1,0 +1,91 @@
+- title: "Representational alignment yields generalizable safety in language models"
+  url: "https://arxiv.org/abs/2609.04022"
+  authors: "Lingyu Li, Yan Teng †, Yingchun Wang, Xia Hu"
+  venue: "arXiv"
+  tldr: >
+    This paper introduces Representational Similarity Optimization (ReSO), a method that directly
+    aligns hidden-layer representations with human moral categorization without supervising generated
+    tokens. ReSO consistently improves adversarial robustness across multiple model scales against
+    various jailbreak evaluations, providing computational evidence that internal representational
+    reorganization is functionally linked to generalizable safety.
+
+- title: "Understanding large language models demands distinguishing human projection from machine cognition"
+  url: "https://www.nature.com/articles/s44271-026-00508-6"
+  authors: "Lingyu Li, Yan Teng †, Yingchun Wang, Xia Hu"
+  venue: "Communications Psychology"
+  tldr: >
+    Current efforts to understand LLMs are largely metaphorical. Researchers map LLMs onto familiar
+    domains, from physics and neuroscience to psychology and sociology, each illuminating specific
+    facets while obscuring others. We chart these metaphors across mechanistic, behavioral, and
+    interactive scales and delineate their explanatory boundaries. Crucially, this metaphorical
+    projection creates a recursive loop of anthropomorphism, fueling the genuine understanding versus
+    pattern matching impasse. As an alternative approach, we propose machine experientialism, positing
+    that LLMs build their own form of understanding from training corpora. The priority shifts from
+    cataloging LLMs' human-like traits to uncovering their distinct logic that emerges from this
+    text-based world.
+
+- title: "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
+  url: "https://theothermind.github.io"
+  authors: "Lingyu Li, Yang Yao, Yixu Wang, Chunbo Li, Yan Teng †, Yingchun Wang"
+  venue: "AAAI 2026"
+  venue_full: "The 40th Annual AAAI Conference on Artificial Intelligence"
+  tldr: >
+    Through 24 million behavioral experiments, this study reveals that LLMs spontaneously develop a
+    human-like subjective temporal perception adhering to the Weber-Fechner Law. Applying mechanistic
+    interpretability into Neural Coding, Concept Representation, and Information Exposure, we
+    demonstrate that this convergence of concept representation stems from time neurons that utilize
+    logarithmic compression to encode latent non-linear temporal patterns within the training corpora.
+    We propose Machine Experientialism, suggesting that LLMs' unique cognitive structures emerge from
+    the dynamic interplay between their architectural properties and the informational environments
+    they inhabit, thereby is “The Other Mind”.
+
+- title: "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
+  url: "https://arxiv.org/abs/2410.16270"
+  authors: "Lingyu Li, Yixu Wang, Haiquan Zhao, Shuqi Kong, Yan Teng †, Chunbo Li †, Yingchun Wang"
+  venue: "ICML 2025"
+  venue_full: "Proceedings of the 42nd International Conference on Machine Learning"
+  tldr: >
+    When an LLM serves as an agent's brain, what is the core capability that defines its ceiling? We
+    propose Epistemic Agency, the ability to flexibly construct, adapt, and monitor beliefs about the
+    dynamic environments. Reflection-Bench evaluates epistemic agency utilizing 7 parameterized
+    cognitive tests to minimize data contamination. We suggest several promising directions, including
+    enhancing meta-cognition, developing mechanisms for dynamic shifts between intuitive and
+    deliberative reasoning, and fostering organic coordination among cognitive capabilities.
+
+- title: "Formalizing Lacanian psychoanalysis through the free energy principle"
+  url: "https://doi.org/10.3389/fpsyg.2025.1574650"
+  authors: "Lingyu Li, Chunbo Li †"
+  venue: "Frontiers in Psychology"
+  venue_full: "Theoretical and Philosophical Psychology"
+  tldr: >
+    We formalize Lacan's traditionally obscure philosophy of human mind using Free Energy Principle.
+    We identify theoretical alignments between the two frameworks, develop a FEP-RSI model that maps
+    the Real, Symbolic, and Imaginary orders to distinct, interacting neural networks. We model the
+    Borromean interdependence as a message passing network, interpersonal desire as generalized
+    synchronization, and the big Other as collective dynamics from social interactions. This study
+    renders abstract Lacanian philosophy computationally tractable.
+
+- title: "Chain of Risks Evaluation (CORE): a framework for safer large language models in public mental health"
+  url: "https://doi.org/10.1111/pcn.13781"
+  authors: "Lingyu Li, Haiquan Zhao, Shuqi Kong, Yan Teng †, Chunbo Li †, Yingchun Wang"
+  venue: "Psychiatry and Clinical Neurosciences"
+  tldr: >
+    Grounded in actor-network theory, we analyze human-LLM interactions as inter-agent dialogues and
+    propose CORE. CORE categorizes LLMs risks in mental health into four progressive levels, from
+    universal and context-specific to user-specific and user-context-specific. We advocate for a
+    collaborative continuum between AI developers and mental health practitioners to ensure LLMs serve
+    as safe tools for psychological support.
+
+- title: "Schizophrenia Research Under the Framework of Predictive Coding: Body, Language, and Others"
+  url: "https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcs.70013?domain=author&token=PPVP9HUMKHAPKGTH7TN9"
+  authors: "Lingyu Li †, Chunbo Li"
+  venue: "WIREs Cognitive Science"
+  venue_full: "Wiley Interdisciplinary Reviews Cognitive Science"
+  tldr: >
+    We establish a psychopathological model of schizophrenia by analyzing the disruption of human
+    ontological existence across the domains of the body, language, and social interaction within the
+    predictive coding framework. We illustrate that clinical manifestations such as disembodiment,
+    formal thought disorders, and impaired theory of mind arise from imbalances in the
+    precision-weighting of top-down priors and bottom-up prediction errors. Beyond a narrow
+    psychopathological profile, this article utilizes these aberrant inferences as a window into the
+    fundamental architecture of the human mind.
