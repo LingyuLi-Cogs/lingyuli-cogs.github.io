@@ -382,14 +382,75 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: -0.012em;
 }
-.hero-name-zh {
+.hero-name-zh,
+.name-reveal > summary {
   display: block;
+  width: fit-content;
+  margin: 0.55rem 0 0;
   font-family: var(--display-zh);
-  margin-top: 0.55rem;
-  font-size: 0.34em;
+  font-size: clamp(0.95rem, 2.4vw, 1.45rem);
   font-weight: 400;
   letter-spacing: 0.1em;
   color: var(--ink-2);
+}
+
+/* Easter egg: the name carries a standing dotted underline as the only hint
+   that it does anything. Hover or open strengthens it to full accent. Native
+   <details> so it works with no JS and answers to the keyboard. */
+.name-reveal > summary {
+  cursor: pointer;
+  list-style: none;
+  /* 24px of text is a thin thing to tap; pad the box and pull the margin back
+     so the name does not visually move. */
+  margin-top: 0.25rem;
+  padding-block: 0.32rem;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--accent-line);
+  text-underline-offset: 0.4em;
+  transition: color 0.2s var(--ease), text-decoration-color 0.2s var(--ease);
+}
+.name-reveal > summary::-webkit-details-marker { display: none; }
+.name-reveal > summary::marker { content: ''; }
+.name-reveal > summary:hover,
+.name-reveal[open] > summary {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
+/* A marginal note on the name: hairline rule, small muted type, the characters
+   set in the same FangSong as the name above them. */
+.name-gloss {
+  margin: 0.85rem 0 0;
+  padding-left: 0.95rem;
+  border-left: 1px solid var(--line);
+  font-size: 0.75rem;
+  line-height: 1.55;
+  color: var(--ink-3);
+}
+
+.name-gloss dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.25rem 0.7rem;
+  align-items: baseline;
+  margin: 0;
+  max-width: 40ch;
+}
+
+.name-gloss dt {
+  font-family: var(--display-zh);
+  font-size: 1.0625rem;
+  line-height: 1.1;
+  color: var(--ink-2);
+}
+
+.name-gloss dd { margin: 0; }
+.name-gloss dd i { font-style: italic; color: var(--ink-2); }
+
+.name-gloss p {
+  margin: 0.7rem 0 0;
+  max-width: 46ch;
 }
 
 .hero-lede {
@@ -891,6 +952,9 @@ main { flex: 1 0 auto; }
 @media (prefers-reduced-motion: no-preference) {
   html { scroll-behavior: smooth; }
 
+  .name-reveal[open] .name-gloss { animation: gloss-in 0.4s var(--ease) both; }
+  @keyframes gloss-in { from { opacity: 0; transform: translateY(-4px); } }
+
   .reveal-ready .reveal {
     opacity: 0;
     transform: translateY(10px);
@@ -921,5 +985,7 @@ main { flex: 1 0 auto; }
   body { background: #fff; color: #000; }
   .tldr p { display: block; }
   .tldr summary { display: none; }
+  .name-reveal .name-gloss { display: block; }
+  .name-reveal > summary { text-decoration: none; color: inherit; }
   .reveal { opacity: 1 !important; transform: none !important; }
 }

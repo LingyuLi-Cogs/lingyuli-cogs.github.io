@@ -2,6 +2,17 @@
 layout: home
 lede: "Welcome. I'm doing interesting research at Shanghai AI Lab, at the intersection of AI, cognitive science, and philosophy."
 location: "Shanghai, China"
+name_gloss:
+  - char: 李
+    roman: Li
+    meaning: plum
+  - char: 凌
+    roman: Ling
+    meaning: to rise above, or to transcend
+  - char: 宇
+    roman: Yu
+    meaning: the vastness of the universe
+name_note: "Together, a small fruit transcending the universe. Something small in form can still be infinite in meaning."
 contact_note: "Feel free to contact me regarding academic collaboration or opportunities to work with us at Shanghai AI Lab."
 spotify_track: "54baCiXqMz9UK8LqJ7nIPV"
 ---

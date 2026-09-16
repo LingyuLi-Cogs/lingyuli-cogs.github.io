@@ -6,8 +6,26 @@ layout: default
     <div class="hero-copy">
       <h1 class="hero-name">
         <span class="hero-name-en">Lingyu Li</span>
-        <span class="hero-name-zh" lang="zh-Hans">李凌宇</span>
       </h1>
+
+      {%- if page.name_gloss %}
+      <details class="name-reveal">
+        <summary lang="zh-Hans">李凌宇</summary>
+        <div class="name-gloss">
+          <dl>
+            {%- for g in page.name_gloss %}
+            <dt lang="zh-Hans">{{ g.char }}</dt>
+            <dd><i>{{ g.roman }}</i>, {{ g.meaning }}</dd>
+            {%- endfor %}
+          </dl>
+          {%- if page.name_note %}
+          <p>{{ page.name_note }}</p>
+          {%- endif %}
+        </div>
+      </details>
+      {%- else %}
+      <p class="hero-name-zh" lang="zh-Hans">李凌宇</p>
+      {%- endif %}
 
       <p class="hero-lede">{{ page.lede }}</p>
 
